@@ -1,0 +1,7 @@
+This is websockify in C with a webserver on the same port with
+encryption.
+
+Much of code is picked from noVNC and tiny.c . So major credit is to
+them. There is a python vesion with same features in noVNC. So it is
+more or less same features in pure C. Ofcoure you need Xvnc and noVNC
+for it to work as a web VNC server.
